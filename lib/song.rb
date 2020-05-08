@@ -11,7 +11,7 @@ class Song
     @@genres << genre
   end
 
-  def artist
+  def artist(artist)
     @@artists
   end
 
