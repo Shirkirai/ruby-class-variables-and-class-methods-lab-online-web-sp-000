@@ -13,6 +13,7 @@ class Song
 
   def artist
     @@artists
+  end
 
 
 
