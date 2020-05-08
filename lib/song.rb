@@ -13,6 +13,7 @@ class Song
 
   def artists
     @@artists << @artist
+    @@artists
   end
 
   def count
@@ -23,6 +24,6 @@ class Song
     @@genres << @genre
   end
 
-  
+
 
 end
