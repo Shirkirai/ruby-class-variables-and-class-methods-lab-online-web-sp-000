@@ -33,7 +33,7 @@ class Song
     end
     hash
   end
-  binding.pry
+
 
 
 
