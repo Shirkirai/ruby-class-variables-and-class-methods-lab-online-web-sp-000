@@ -32,7 +32,7 @@ class Song
       hash << individual_genre
     end
 
-    hash
+    
   end
 
 
