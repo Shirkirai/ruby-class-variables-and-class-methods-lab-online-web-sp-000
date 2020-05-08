@@ -8,4 +8,6 @@ class Song
     @@artists << artist
     @@genres << genre
   end
+
+  
 end
