@@ -32,7 +32,7 @@ class Song
       hash[individual_genre] = @@count
     end
 
-    hash
+    hash.uniq
   end
 
 
