@@ -31,7 +31,8 @@ class Song
     @@genres.each do |individual_genre|
       hash.push(individual_genre)
     end
-    hash
+
+    array
   end
 
 
