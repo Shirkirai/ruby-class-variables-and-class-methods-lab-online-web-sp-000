@@ -32,6 +32,7 @@ class Song
       hash << individual_genre
     end
   end
+  binding.pry
 
 
 
