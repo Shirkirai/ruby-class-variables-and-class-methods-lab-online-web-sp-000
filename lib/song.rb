@@ -28,8 +28,7 @@ class Song
 
   def self.genre_count
     hash = {}
-    @@genres.each do |individual_genre|
-      hash[individual_genre] += 1
+    @@genres.each {}|individual_genre| hash[individual_genre] += 1}
     hash
   end
 
