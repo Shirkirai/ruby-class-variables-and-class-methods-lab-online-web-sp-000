@@ -12,5 +12,6 @@ class Song
 
   def artists
     @@artists << @artist
+  end
 
 end
