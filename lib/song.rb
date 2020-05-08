@@ -10,5 +10,7 @@ class Song
     @genre = genre
   end
 
+  def artists
+    @@artists << @artist
 
 end
