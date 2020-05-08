@@ -22,7 +22,6 @@ class Song
     @@artists << artist
   end
 
-  binding pry
 
 
 
