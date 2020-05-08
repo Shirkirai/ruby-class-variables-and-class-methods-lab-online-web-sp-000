@@ -21,5 +21,6 @@ class Song
 
   def genres
     @@genres << @genre
+  end
 
 end
